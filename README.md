@@ -4,7 +4,7 @@ __to daje nam czcionke pogrubiona__;
 _to czcionke pochylona_;
 __to jest _niezwykle_ ważne__;
 ___to również bardzo ważne___;
->tekst który nie jest cytatem;
+>tekst - nie jest cytatem;
 Użyj `git status`;
 Kolor backgoundu: jasny `#ffffff` , oraz ciemny `#000000`;
 Tutaj mamy link do [GitHub Pages](https://pages.github.com/)
@@ -15,4 +15,7 @@ Tutaj mamy link do [GitHub Pages](https://pages.github.com/)
 1. d
 1. e
 1. f
-   
+1. Pierwsza lista itemów
+   - pierwsza lista w liście
+     - druga
+       
