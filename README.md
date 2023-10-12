@@ -18,4 +18,6 @@ Tutaj mamy link do [GitHub Pages](https://pages.github.com/)
 1. Pierwsza lista itemów
    - pierwsza lista w liście
      - druga
-       
+100. Pierwsza lista itemów
+     - pierwsza
+       - druga
