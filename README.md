@@ -13,8 +13,10 @@ Tutaj mamy link do [GitHub Pages](https://pages.github.com/)
 * b
 + c
 1. d
-1. e
-1. f
+2. e
+3. f
+
+
 1. Pierwsza lista itemów
    - pierwsza lista w liście
      - druga
