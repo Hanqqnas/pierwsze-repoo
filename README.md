@@ -14,7 +14,7 @@ Tutaj mamy link do [GitHub Pages](https://pages.github.com/)
 + c
 1. d
 2. e
-3. f
+3. f;
 
 
 1. Pierwsza lista itemów
@@ -23,3 +23,7 @@ Tutaj mamy link do [GitHub Pages](https://pages.github.com/)
 100. Pierwsza lista itemów
      - pierwsza
        - druga
+Lista rzeczy do zrobienia
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
