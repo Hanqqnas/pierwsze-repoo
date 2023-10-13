@@ -42,3 +42,6 @@ Footnote[^1]
 > Crucial information necessary for users to succeed.
 
 <!-- This content will not appear -->
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
