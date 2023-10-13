@@ -29,4 +29,14 @@ Lista rzeczy do zrobienia
 - [ ] Add delight to the experience when all tasks are complete :tada:
 - [ ] \(Optional) Open a followup issue
 
-:SMILE:
+:shipit:
+
+Footnote[^1]
+
+[^1]: My reference.
+
+> [!NOTE] 
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
